@@ -71,18 +71,20 @@ header {
             padding: 1em 0;
             text-decoration: none;
             background-color: #800000;
-            color: white;
+           color: black;
+            ;
             font-weight: bold;
         }
 
 #nav_menu a.current {
-    color: yellow;
+    color: black;
 }
 
 #nav_menu ul ul {
     display: none;
     position: absolute;
     top: 100%;
+    color: black;
 }
 
     #nav_menu ul ul li {
