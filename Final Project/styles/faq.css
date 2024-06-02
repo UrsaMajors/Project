@@ -57,6 +57,7 @@ header {
     position: relative;
     display: flex;
     justify-content: right;
+    color: black;
 }
 
     #nav_menu ul li {
